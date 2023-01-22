@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header img {
+    width: 700px;
+}
+
+navy a {
+    text-decoration: none;
+    border-bottom: 5px solid black;
+    color: black;
+}
+
+.a {
+    margin-left: 110px;
+}
+
+.b {
+    margin: 0px 95px 0px 95px;
+}
+
+.c {
+    margin-right: 0px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+main p {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+b {
+    color: blue;
+    border-bottom: 1px solid blue;
+}
+
+main img {
+    border-left: 10px dotted black;
+    margin-right: 30px;
+}
+
+footer {
+    background-color: black;
+    padding: 1px 10px 1px 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+}
